@@ -1,0 +1,7 @@
+discord
+asyncio
+aiohttp
+sys
+os
+colorama
+pypresence
